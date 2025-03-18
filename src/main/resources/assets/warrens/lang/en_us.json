@@ -1,0 +1,9 @@
+{
+  "itemGroup.warrens": "Example Mod Tab",
+  "block.warrens.example_block": "Example Block",
+  "item.warrens.example_item": "Example Item",
+  "item.warrens.black_opal": "Black Opal",
+  "item.warrens.raw_black_opal": "Raw Black Opal",
+  "itemGroup.warrens.black_opal_item_tab": "Black Opal Items",
+  "itemGroup.warrens.black_opal_blocks_tab": "Black Opal BLocks"
+}
