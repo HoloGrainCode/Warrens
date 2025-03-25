@@ -1,9 +1,16 @@
 {
-  "itemGroup.warrens": "Example Mod Tab",
-  "block.warrens.example_block": "Example Block",
-  "item.warrens.example_item": "Example Item",
   "item.warrens.black_opal": "Black Opal",
   "item.warrens.raw_black_opal": "Raw Black Opal",
-  "itemGroup.warrens.black_opal_item_tab": "Black Opal Items",
-  "itemGroup.warrens.black_opal_blocks_tab": "Black Opal BLocks"
+
+  "block.warrens.black_opal_block": "Block of Black Opal",
+  "block.warrens.raw_black_opal_block": "Raw Black Opal Block",
+  "block.warrens.black_opal_ore": "Black Opal Ore",
+  "block.warrens.black_opal_deepslate_ore": "Deepslate Black Opal Ore",
+  "block.warrens.black_opal_nether_ore": "Nether Black Opal Ore",
+  "block.warrens.black_opal_end_ore": "End Black Opal Ore",
+
+
+
+  "itemGroup.warrens.black_opal_items_tab": "Black Opal Items",
+  "itemGroup.warrens.black_opal_blocks_tab": "Black Opal Blocks"
 }
