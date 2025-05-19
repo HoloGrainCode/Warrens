@@ -1,6 +1,7 @@
 package com.holograin.warrens.block;
 
 import com.holograin.warrens.Warrens;
+import com.holograin.warrens.block.custom.MagicBlock;
 import com.holograin.warrens.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -36,6 +37,8 @@ public class ModBlocks {
             () -> new DropExperienceBlock(UniformInt.of(2,8),
                     (BlockBehaviour.Properties.of().strength(5f).requiresCorrectToolForDrops())));
 
+    public static final DeferredBlock<Block> MAGIC_BLOCK = registerBlock("magic_block",
+            () -> new MagicBlock(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
 
 
 
